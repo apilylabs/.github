@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.apily.app">
-  <img src="./pulse.png" width="100" alt="project-logo">
+  <img src="./logo.png" width="100" alt="project-logo">
   </a>
 </p>
 <p align="center">
