@@ -7,7 +7,7 @@
     <h1 align="center">Apily</h1>
 </p>
   <p align="center">
-      <em>Apily will make API testing great again</em>
+      <em>The next-gen API testing tool you'll ever want.</em>
     <br />
     <a href="https://www.apily.app"><strong>Learn more »</strong></a>
     <br />
