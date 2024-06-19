@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    <h1 align="center">Pyxis</h1>
+    <h1 align="center">Pyxis</h1>
 </p>
   <p align="center">
       <em>A Finder that's better than Finder.</em>
