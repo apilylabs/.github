@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://pyxisapp.dev">
-  <img src="../logo.png" width="100" alt="project-logo">
+  <img src="../logo.png" width="100" alt="project-logo" style="border-radius: 16px;">
   </a>
 </p>
 <p align="center">
